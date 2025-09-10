@@ -1,0 +1,12 @@
+@media only screen and (max-width: 767px)  {
+    #navbar a, #navbar a:nth-child(2), #navbar a:nth-child(5){
+        border-left: unset;
+        border-right: unset;
+        padding: 10px;
+    }
+    .divider-md {
+        height: 1px;
+        background: orange;
+        margin: 2rem 0;
+    }
+}
